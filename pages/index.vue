@@ -9,7 +9,7 @@
             <p class="introName text-4xl lg:text-4xl text-center lg:text-left">Hi, my name is <span class="firstName">Cody Mullin</span></p>
             <p class="introJob text-2xl lg:text-5xl text-center lg:text-left">I am a front-end web developer <br />& designer</p>
           </div>
-          <div class="mt-16 md:mt-8 ml-auto mr-auto h-64 w-64 lg:ml-64 lg:h-full lg:w-full">
+          <div class="mt-16 md:mt-8 ml-auto mr-auto h-64 w-64 lg:h-full lg:w-full">
             <img src="../assets/developer.svg" class="float-right p-0 box-sizing:0">
           </div>
         </div>

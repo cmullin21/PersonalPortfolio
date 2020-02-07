@@ -39,7 +39,7 @@
                     <div class="mt-4 md:mt-0 md:ml-6">
                         <div class="uppercase tracking-wide text-sm font firstName font-bold">Theragenics Corporation Costa Rica</div>
                         <div class="block mt-1 text-lg leading-tight font-semibold text-gray-700">Logo Creation</div>
-                        <p class="mt-2 text-gray-600"></p>
+                        <p class="mt-2 text-gray-600">While in high school I got the opportunity to work with Theragenics Corporation to help create their company logo for their branch in Costa Rica.</p>
                     </div>
                 </div>
             </div>

@@ -53,7 +53,7 @@
                     <div class="mt-4 md:mt-0 md:ml-6">
                         <div class="uppercase tracking-wide text-sm font firstName font-bold">Design Practice</div>
                         <div class="block mt-1 text-lg leading-tight font-semibold text-gray-700">Designing Practice</div>
-                        <p class="mt-2 text-gray-600">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsa voluptas quaerat natus itaque dicta eligendi? Temporibus, libero. Necessitatibus, cupiditate voluptates.</p>
+                        <p class="mt-2 text-gray-600">To make sure </p>
                     </div>
                 </div>
             </div>

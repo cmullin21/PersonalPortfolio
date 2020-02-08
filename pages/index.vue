@@ -56,8 +56,8 @@
         </div>
         <div>
           <h1 class="text-2xl py-8 underline">Softwares</h1>
-          <h3 class="py-2 text-lg">Photoshop</h3>
-          <h3 class="py-2 text-lg">XD</h3>
+          <h3 class="py-2 text-lg">Adobe Photoshop</h3>
+          <h3 class="py-2 text-lg">Adobe XD</h3>
           <h3 class="py-2 text-lg">InVision</h3>
           <h3 class="py-2 text-lg">Figma</h3>
           <h3 class="py-2 text-lg">Office Suite</h3>

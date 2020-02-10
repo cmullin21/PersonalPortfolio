@@ -25,7 +25,7 @@
                     <div class="mt-4 md:mt-0 md:ml-6">
                         <div class="uppercase tracking-wide text-sm font firstName font-bold">MBI Accounting</div>
                         <div class="block mt-1 text-lg leading-tight font-semibold text-gray-700">Accounting Software</div>
-                        <p class="mt-2 text-gray-600">MBI Accounting was a school project building a piece of accounting software. For this project the system was built using the CodeIgniter Framework for the backend as well as Bootstrap Framework for the front end. The site is live at <span class="text-blue-600"><a href="http://mbiaccounting.000webhostapp.com/">http://mbiaccounting.000webhostapp.com/</a></span>. To see an example, you can login with Username: Visitor <br /> Password: VisitorP@ss</p>
+                        <p class="mt-2 text-gray-600">MBI Accounting was a school project building a piece of accounting software. For this project the system was built using the CodeIgniter Framework for the backend as well as Bootstrap Framework for the front end. The site is live at <span class="text-blue-600"><a href="http://mbiaccounting.000webhostapp.com/">http://mbiaccounting.000webhostapp.com/</a></span>. To see an example, you can login with <br/>Username: Visitor <br /> Password: VisitorP@ss</p>
                     </div>
                 </div>
             </div>

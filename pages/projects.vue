@@ -34,12 +34,12 @@
             <div class="container-about">
                 <div class="mt-16 md:flex">
                     <div class="md:flex-shrink-0">
-                        <img class="rounded-lg md:w-64 w-full" src="../assets/prjImg/TCLogo.png">
+                        <a href="https://linkedin.com/company/theragenics-costa-rica/"><img class="rounded-lg md:w-64 w-full" src="../assets/prjImg/TCLogo.png"></a>
                     </div>
                     <div class="mt-4 md:mt-0 md:ml-6">
                         <div class="uppercase tracking-wide text-sm font firstName font-bold">Theragenics Corporation Costa Rica</div>
                         <div class="block mt-1 text-lg leading-tight font-semibold text-gray-700">Logo Creation</div>
-                        <p class="mt-2 text-gray-600">While in high school I got the opportunity to work with Theragenics Corporation to help create their company logo for their branch in Costa Rica.</p>
+                        <p class="mt-2 text-gray-600">While in high school I got the opportunity to work with Theragenics Corporation to help create the company logo for their branch in Costa Rica.</p>
                     </div>
                 </div>
             </div>
@@ -48,12 +48,12 @@
             <div class="container-about">
                 <div class="mt-16 md:flex">
                     <div class="md:flex-shrink-0">
-                        <img class="rounded-lg md:w-64 w-full" src="../assets/prjImg/Day4.png">
+                        <a href="https://www.behance.net/CodyMullinProjects"><img class="rounded-lg md:w-64 w-full" src="../assets/prjImg/Day4.png"></a>
                     </div>
                     <div class="mt-4 md:mt-0 md:ml-6">
                         <div class="uppercase tracking-wide text-sm font firstName font-bold">Design Practice</div>
                         <div class="block mt-1 text-lg leading-tight font-semibold text-gray-700">Designing Practice</div>
-                        <p class="mt-2 text-gray-600">To make sure </p>
+                        <p class="mt-2 text-gray-600 pb-16">To make sure I am able to continuously practice my design skills, I enjoy doing mini design projects to make sure my skills always remain sharp and adjusting with the times. </p>
                     </div>
                 </div>
             </div>

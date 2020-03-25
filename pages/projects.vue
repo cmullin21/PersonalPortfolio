@@ -44,7 +44,21 @@
                 </div>
             </div>
 
-            <!-- Theragenics -->
+            <!-- Dad Jokes -->
+            <div class="container-about">
+                <div class="mt-16 md:flex">
+                    <div class="md:flex-shrink-0">
+                        <a href="https://admiring-hugle-9c7ef5.netlify.com/"><img class="rounded-lg md:w-64 w-full" src="../assets/prjImg/dadjokes.png"></a>
+                    </div>
+                    <div class="mt-4 md:mt-0 md:ml-6">
+                        <div class="uppercase tracking-wide text-sm font firstName font-bold">Dad Jokes</div>
+                        <div class="block mt-1 text-lg leading-tight font-semibold text-gray-700">Side Project</div>
+                        <p class="mt-2 text-gray-600">Dad Jokes is a side project to help learn the different features of Vue, while also learning about pulling in data via Reddit API.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Daily Challenge -->
             <div class="container-about">
                 <div class="mt-16 md:flex">
                     <div class="md:flex-shrink-0">

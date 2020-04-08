@@ -1,5 +1,5 @@
 <template>
-  <div class="bgColor h-screen">
+  <div class="bgColor h-screen font font-sans">
     <nuxt />
   </div>
 </template>
